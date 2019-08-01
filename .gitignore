@@ -1,0 +1,9 @@
+alibaba/.idea/
+alibaba/nacos-provider/.mvn/wrapper/maven-wrapper.properties
+alibaba/nacos-provider/.mvn/wrapper/maven-wrapper.jar
+alibaba/nacos-provider/mvnw.cmd
+alibaba/nacos-provider/mvnw
+alibaba/nacos-provider/.mvn/
+alibaba/nacos-consumer/mvnw.cmd
+alibaba/nacos-consumer/mvnw
+alibaba/nacos-consumer/.mvn/
