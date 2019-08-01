@@ -1,2 +1,2 @@
-# spring-cloud-learing
-spring clould learning repo
+# spring-cloud-learning
+spring cloud learning repo
